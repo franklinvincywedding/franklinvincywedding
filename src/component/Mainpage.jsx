@@ -42,7 +42,7 @@ function Mainpage() {
        
       if (distance < 0) {
         clearInterval(x);
-        document.getElementById('timer').innerHTML = 'Jun 9, 2024';
+        document.getElementById('timer').innerHTML = 'May 23, 2025';
       }
 
 
